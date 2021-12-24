@@ -1,3 +1,4 @@
+
 .card_total card_small{
     
     background-color: aqua;
@@ -43,3 +44,40 @@ body{
     background-color: aliceblue;
 } */
 
+.fa-1x {
+    font-size: 1.5rem;
+    }
+    .navbar-toggler.toggler-example {
+    cursor: pointer;
+    }
+    .dark-blue-text {
+    color: #0A38F5;
+    }
+    .dark-pink-text {
+    color: #AC003A;
+    }
+    .dark-amber-text {
+    color: #ff6f00;
+    }
+    .dark-teal-text {
+    color: #004d40;
+    }
+
+    .dropdown-menu {
+        height: 500px;
+        overflow-y: scroll;
+      }
+     .collasible-nav-dropdown{
+         background-color: aquamarine;
+     } 
+     .drop2{
+         background-color: #ff6f00;
+         
+         border: 1px solid orange;
+         border-radius: 10px 10px;
+     }
+     .drop1{
+        background-color:orange;
+        border: 1px solid orange;
+        border-radius: 10px 10px;
+    }
