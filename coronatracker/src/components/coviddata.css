@@ -1,48 +1,45 @@
 .card_total card_small{
     
     background-color: aqua;
-
-}
-.card{
-    background-color: orange;
-    
 }
 body{
     background-color: lightblue;
 }
 .tab1{
-    background-color: chartreuse;
+    background-color: rgb(255, 139, 7);
     width: 100%;
     height: 90px;
+    font-size: 30px;
 }
 .tab1:hover{
-    font-size: 30px;
-    background-color: aliceblue;
+    font-size: 35px;
+
 }
 .tab2{
-    background-color:bisque;
+    background-color:aliceblue;
     width: 100%;
     height: 90px;
 }
 .tab2:hover{
     font-size: 30px;
-    background-color: aliceblue;
+    background-color: white;
 }
 .tab3{
-    background-color:cornflowerblue;
+    background-color:aliceblue;
     width: 100%;
     height: 90px;
 }
 .tab3:hover{
     font-size: 30px;
-    background-color: aliceblue;
+    background-color: white;
 }
 .tab4{
-    background-color:darkorange;
+    background-color:rgb(7, 245, 26);
     width: 100%;
     height: 90px;
 }
-.tab4:hover{
+/* .tab4:hover{
     font-size: 30px;
     background-color: aliceblue;
-}
+} */
+

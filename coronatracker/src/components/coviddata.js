@@ -35,13 +35,20 @@ const Coviddata = () =>{
       
     }}> */}
         {/* </div> */}
+        
         <section>
           <marquee text="head"><h1>LIVE TRACKER</h1></marquee>
            <h1>Corona Tracker</h1>
           </section>
 <div className='tablayout'>
 <div className='tab1'>
-   <p>India</p>
+                <p className='card_name' href="#"><span>DELHI </span></p>
+               <a><p className='card_total card_small1'>Central Delhi</p></a> 
+               <p className='card_total card_small1'>"ACTIVE CASES":{data.active}</p>
+               <p className='card_total card_small1'>"Confirm cases":{data.confirmed}</p>
+               <p className='card_total card_small1'>"Deceased cases":{data.deceased}</p>                 
+        
+        
 </div>
 
 <div className='tab2'>
