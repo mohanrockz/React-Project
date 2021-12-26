@@ -64,13 +64,12 @@ body{
     }
 
     .dropdown-menu {
-        height: 500px;
+        height: 400px;
+
         overflow-y: scroll;
       }
-     .collasible-nav-dropdown{
-         background-color: aquamarine;
-     } 
-     .drop2{
+   
+     /* .drop2{
          background-color: #ff6f00;
          
          border: 1px solid orange;
@@ -80,4 +79,20 @@ body{
         background-color:orange;
         border: 1px solid orange;
         border-radius: 10px 10px;
-    }
+    } */
+.action1{
+    background-color: cadetblue;
+   
+}
+select{
+    border: 5px solid blue;
+    height: 70px;
+    
+}
+option{
+    font-size: 20px;
+}
+ul{
+    background-color: orange;
+    font-size: 25px;
+}
